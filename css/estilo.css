@@ -1,0 +1,10 @@
+body {
+    background: rgb(185, 173, 196);
+    font-size: 14px;   
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
